@@ -1,0 +1,451 @@
+text	label
+what is the traffic like on the road to downtown dallas	traffic
+what is the traffic like on the way to town	traffic
+is traffic bad on the parkway	traffic
+what will traffic be like nearest the george washington bridge, new york	traffic
+what is the traffic like at the closest safeway grocery store	traffic
+i need ti know the traffic in tempe	traffic
+i have to know what the traffic typically like at 3:30 on the route to phoenix	traffic
+i must know what the traffic typically like at 3:30 on the route to phoenix	traffic
+how clogged are the streets before the stadium	traffic
+tell me the traffic in tempe	traffic
+what's the traffic like on the way to the amusement park	traffic
+give me an idea of traffic on the way to the doctors office at 6	traffic
+will i encounter traffic	traffic
+will there be heavy traffic near downtown philadelphia from lincoln drive in the next two hours	traffic
+is the traffic backed up at the closest circle k	traffic
+i'm going to need an uber for 4 people to go to patty's bar	uber
+get me an uber for 4 heading to miam	uber
+i need an uber for 5 people to go to wendys	uber
+i need an uber to times square asap	uber
+is there an uber that drives to the bank on 5th that can hold 3 people	uber
+i need an uber for 6 people to the movies	uber
+schedule me an uber to the mall	uber
+i need an uber to the sears tower	uber
+am i able to get an uber to the movies	uber
+i need an uber reserved to take me to the restaurant	uber
+i need to go to phoenix sky harbor airport using uber	uber
+i need an uber to get to the bank	uber
+call an uber to mcdonalds	uber
+can i get an uber for 2 to go to austin	uber
+i need an uber for 3 passengers to go to madison square garden	uber
+i need to know the name of my current location for the tow truck	current_location
+what's the location where i am	current_location
+can you tell me how to figure out my current location	current_location
+open map and pin point my location	current_location
+where am i located currently	current_location
+what are my coordinates	current_location
+pull up the map and show my location	current_location
+where am i right now, location wise	current_location
+my current location	current_location
+place a marker for me where i am on the map	current_location
+i'd like to know my current location	current_location
+tell me what to enter into my gps for my current location	current_location
+i need assistance with my current location	current_location
+i need to know what my gps coordinates are	current_location
+could you pull up my location on the map	current_location
+when was the car last services	last_maintenance
+what day did i last take my car to the shop	last_maintenance
+how long has it been since my car was looked at	last_maintenance
+i'd like to know the last time my car got looked at	last_maintenance
+what was the date when my car was in the shop	last_maintenance
+remind me of the last date that i got my car checked	last_maintenance
+give me the date of my last oil change	last_maintenance
+look up the date of my last oil change	last_maintenance
+when was my last visit to the car shop	last_maintenance
+when was my last maintenance on my car in the shop	last_maintenance
+i need to know when i last took my car in for a check up	last_maintenance
+was my car in the shop this past week	last_maintenance
+when did i most recently have my car in the shop	last_maintenance
+when was the last time i took my car in	last_maintenance
+how long's it been since i had my car serviced	last_maintenance
+check: car gas mileage	mpg
+tell me my car's gas mileage please	mpg
+how many miles per gallon do i get	mpg
+how many mpg does this rig get when i'm in the city	mpg
+my mpg is how much	mpg
+what kind of miles per gallon do i get while driving through a city	mpg
+what is the highway mpg on this car like	mpg
+what gas mileage does my car get	mpg
+what mpg does my car get	mpg
+how many mpgs does this car get on the highway	mpg
+please tell me what the mpg is for this car	mpg
+how many mpg does this get on the highway	mpg
+i need to know my cars mpg	mpg
+how's my gas mileage in citys	mpg
+how many miles per gallon does my car get	mpg
+put a tire inspection on my schedule please	schedule_maintenance
+should i take my car to a maintenance	schedule_maintenance
+i need to get my oil change so make an appointment	schedule_maintenance
+schedule me an appointment to get my tires checked out	schedule_maintenance
+i want to schedule somewhere get my tires checked out	schedule_maintenance
+i need an appointment to get my oil changed	schedule_maintenance
+i need to schedule some car maintenance	schedule_maintenance
+can you please make an appointment for me to get my tires checked out	schedule_maintenance
+where can i go to have my tires checked out	schedule_maintenance
+can you schedule me a mechanic	schedule_maintenance
+make a reminder to schedule a tire check	schedule_maintenance
+can you see if i can make an appointment to have my oil changed	schedule_maintenance
+set an appointment for an oil change	schedule_maintenance
+i require a car maintenance	schedule_maintenance
+i got to schedule some car maintenance	schedule_maintenance
+how far is the grand canyon from my current location in phoenix, az	distance
+give me the time left before i get to the hotel	distance
+how far am i from orlando	distance
+how fast can i get to target in trenton	distance
+if i take the bus, how long will it take to get to dubrovnik	distance
+which way do we go and how long will it take to get to the sears tower in chicago	distance
+what's the average time to boston when riding a bus	distance
+how long will it take to reach my doctors office	distance
+please let me know how long it'll be until i reach the sky harbor airport	distance
+how long will a bus ride take if i'm going to the capitol building	distance
+how long does it take to get to the sky harbor airport	distance
+how long does it take to get to outback in atlanta	distance
+what amount of time would it take me to reach the university by bus	distance
+how long is it going to take me to get to bellevue	distance
+is the ride short to the airport in la	distance
+do you know when the best time for me to change my tires next would be	tire_change
+tell when should i get my tires changed next	tire_change
+would i need new tires if my last purchase was in may of 2018	tire_change
+how soon till i need to change my tires	tire_change
+when would it be wise for me to swap out my tires	tire_change
+tell me when to get my tires changed	tire_change
+when would be a wise time to replace my tires	tire_change
+is there a time when i should get my tires changed	tire_change
+i replaced my tires last year when should i replace my tires again	tire_change
+i purchased new tires yesterday, should i buy new ones	tire_change
+tell me when i'll need new tires	tire_change
+when should i get my tires changed again	tire_change
+are my tires due to be changed	tire_change
+at what point will i need to change my tires	tire_change
+how many more miles can i drive before changing my tires	tire_change
+are my tires good on pressure	tire_pressure
+what's my current tire pressure	tire_pressure
+how's the air pressure in my tires	tire_pressure
+are my tires in need of air	tire_pressure
+what's my tires' air pressure	tire_pressure
+please give me the amount of pressure in my car tires	tire_pressure
+tell me my car's tire pressure	tire_pressure
+what's my car's tire pressure	tire_pressure
+how is the car tire pressure doing	tire_pressure
+i need to know how low are my tires on air	tire_pressure
+please measure my tire pressure	tire_pressure
+do i need to fill my tires	tire_pressure
+how much air is in my tires	tire_pressure
+how much air are in my tires	tire_pressure
+what is my tire pressure	tire_pressure
+how can i go about jump starting my car	jump_start
+can you help me with the steps to jump start my car	jump_start
+find auto store that tests dead car batteries for free	jump_start
+my car battery died and i need help	jump_start
+number for aaa to help with dead car battery	jump_start
+how do i fix a dead car battery	jump_start
+my car battery is dead what do i do	jump_start
+how do i jump start the car	jump_start
+what should i do to get my car jump started	jump_start
+how do you jump start a car	jump_start
+guide me through jump starting a car	jump_start
+what steps should i take if i think my car battery is dead	jump_start
+closest auto parts store to find replace for dead car battery	jump_start
+can you tell me how to jump start the car	jump_start
+how do i jump start my car	jump_start
+how much gas is in my tank	gas
+is my gas tank full or empty	gas
+how many gallons of gas are in my car	gas
+calculate the amount of gas i currently have	gas
+what my fuel tank at	gas
+how full is the gas tank	gas
+where is my gas level right now	gas
+how empty is my gas tank	gas
+what is left in my gas tank	gas
+how much petrol do i have	gas
+whats in my gas tank	gas
+i need to know how much gas i have	gas
+how much gas do i need to get to buffalo	gas
+how much fuel is in the tank	gas
+what is my gas level	gas
+where is the closest mcdonalds	directions
+how would i get to city hall via bus	directions
+i am on main street now, where is the closest bus stop to me	directions
+where is the closest subway entrance to me to go to brooklyn	directions
+i want to know how to get to statue of liberty by bus	directions
+how close is a gas station to mcdonalds	directions
+i need some directions to phoenix	directions
+where is the closest walmart to boise, idaho	directions
+how do i get to new york by bus	directions
+i must understand the nearest gas station to glendale	directions
+is it possible to take the bus to the brooklyn bridge	directions
+where is the nearest wal mart	directions
+how do i get to the mall by bus	directions
+can you tell me where the nearest rest station to me is	directions
+search for the nearest atm to newark penn station, newark in new jersey	directions
+when should i change my oil	oil_change_when
+is it time for an oil change	oil_change_when
+when should i get my next oil change	oil_change_when
+do you change the oil in your car more than once a year	oil_change_when
+how often do you have to change your oil	oil_change_when
+what's my oil change status	oil_change_when
+when is the best time for my next oil change	oil_change_when
+i need to know when should i get my oil changed next	oil_change_when
+what is the schedule for my next oil change	oil_change_when
+when should oil be changed in my car	oil_change_when
+when is my car due for an oil change	oil_change_when
+is there a way to tell when i need my oil changed	oil_change_when
+when do i have to change oil	oil_change_when
+my next oil change is when	oil_change_when
+when will my oil change be due for this car	oil_change_when
+what octaine is recommended for this car	gas_type
+what kind of fuel should i use to fill the car	gas_type
+what kind of gas goes in this car	gas_type
+tell me the kind of fuel that my vehicle operates on	gas_type
+what gas is needed for the car	gas_type
+is there a certain type of gas i need to use for this car	gas_type
+which gas type goes into this car	gas_type
+please tell me what kind of gas this car needs	gas_type
+tell me the type of fuel my car takes	gas_type
+what kind of gas goes in	gas_type
+what sort of fuel do i need for my car	gas_type
+is there a minimum gas grade this car needs	gas_type
+can i use any fuel in my car	gas_type
+is unleaded ok or should i use premium	gas_type
+what kind of gas will i need to put in this car	gas_type
+how easy is it to change your own oil	oil_change_how
+i need a tutorial to learn how to change my oil, please	oil_change_how
+diy oil change	oil_change_how
+find instructions on how to change my oil	oil_change_how
+what oil should i use for an oil change and how do i do it	oil_change_how
+i would like to know how to perform an oil change	oil_change_how
+can you tell me how to change my oil	oil_change_how
+how do i change my oil and what kind do i need	oil_change_how
+how to do an oil change	oil_change_how
+walk me through changing the oil on a tesla	oil_change_how
+i want to know how to change my oil	oil_change_how
+what is the way to change motor oil	oil_change_how
+how do i change the oil in my passat	oil_change_how
+what kind of oil does my car take and how do i do a change	oil_change_how
+get me instruction to change oil	oil_change_how
+does tartine in san francisco take reservations	accept_reservations
+do you know if benihana does reservations	accept_reservations
+does the steakhouse on main st take reservations	accept_reservations
+does long horns do reservations	accept_reservations
+can you tell me if zeus does reservations	accept_reservations
+i need to know if capones does reservations in trenton	accept_reservations
+does burger king accept reservations	accept_reservations
+do they take reservations at bar tartine	accept_reservations
+will they take reservations at chillis	accept_reservations
+does the zen garden in la take reservations	accept_reservations
+can you make a reservation at michael's	accept_reservations
+does the new york restaurant take reservations	accept_reservations
+do you know if olive garden does reservations	accept_reservations
+let me know if grub burger takes reservations	accept_reservations
+is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+is the friday's full after 4	how_busy
+does ihop have a lot of business around 7 am	how_busy
+is the restaurant busy at lunchtime	how_busy
+is that restaurant crowded during dinner	how_busy
+find out how busy ihop usually is around 5 pm	how_busy
+do you know how long of a wait it will be	how_busy
+how long would i have to wait if i want to go to golden corral	how_busy
+what is the wait supposed to be at zippys	how_busy
+when will the restaurant be busiest	how_busy
+how busy do you expect olive garden to be at 6	how_busy
+how long to be seated at carrabas	how_busy
+i need to know about how much time i'd have to wait to get a table at dibruno's	how_busy
+how long does it take to get a table at chili's	how_busy
+how busy is zippy around 12 for lunch	how_busy
+how busy is imanas at 6	how_busy
+does chili's have good reviews	restaurant_reviews
+how are people liking the sushi at yakamoto	restaurant_reviews
+how good are the ratings for papa john's	restaurant_reviews
+what are the reviews like for l'auberge aubergine	restaurant_reviews
+how are the donuts reviews at tgi	restaurant_reviews
+how many stars does brasserie les halles have	restaurant_reviews
+how good are the ratings for olive garden	restaurant_reviews
+does ihop have positive reviews	restaurant_reviews
+look up the ratings for olive garden	restaurant_reviews
+is the review ned's have good	restaurant_reviews
+do people like the food at wendy's	restaurant_reviews
+how good are the ratings for chic-fil-a	restaurant_reviews
+what are the reviews like for khin khao	restaurant_reviews
+does outback steakhouse have good reviews	restaurant_reviews
+does cielo have good reviews	restaurant_reviews
+i need to make sure there is a reservation for george at connor oneil's	confirm_reservation
+i'd like for you to make sure my reservation is there for charlie's under jack	confirm_reservation
+can you confirm my reservation for jaime at red lobster	confirm_reservation
+can you check and see i have a reservation under alex for bon apetite	confirm_reservation
+i need you to confirm that there is a reservation under the name david kramer for 7:00 pm at pietro's	confirm_reservation
+i need to confirm my reservation for red lobster for frank	confirm_reservation
+can you confirm my reservation for 6 pm on the 13th of february	confirm_reservation
+check on my reservation for umami at 6pm	confirm_reservation
+will you make sure robert has a reservation at ruth's steakhouse	confirm_reservation
+confirm that there is a reservation at bellagio for thomas	confirm_reservation
+i want my reservation for march 1 at 8 pm confirmed	confirm_reservation
+i would like to try and confirm that i have a reservation at chili's for bart	confirm_reservation
+please tell me if i still have a reservation at acero for susie	confirm_reservation
+do i have a reservation for may 1st, 2019 at 4 pm	confirm_reservation
+can you confirm my reservation for 6 at the outback	confirm_reservation
+the sauce must simmer then go in the oven but for how long	cook_time
+for how long does this need to cook	cook_time
+how long does it take to bake a cake	cook_time
+what's the preparation time for this dish	cook_time
+how long should i cook steak for	cook_time
+how long should i cook my turkey	cook_time
+what do i set the timer for if i'm making gyoza	cook_time
+what are the minutes needed to cook the meal	cook_time
+how long should i cook the pasta for	cook_time
+i need the cooking length for a turkey	cook_time
+how long do cheeseburgers take to make	cook_time
+how long to microwave a pizza	cook_time
+how long do i need to cook roast for	cook_time
+how long does this dish need to be in the oven	cook_time
+how long does it take to cook ham	cook_time
+how many calories are found in bagels	calories
+how many calories are in a piece of bacon	calories
+what's the expected calorie load of a peanut butter and jelly sandwich	calories
+what is the calorie count in a cookie	calories
+what is the calorie content in peanut butter	calories
+tell me the calorie content for an apple	calories
+what is the caloric value of a cookie	calories
+how many calories can i expect to be in fries	calories
+can you tell me the number of calories in one serving of whole cashews	calories
+what's the number of calories in a coke	calories
+how many calories does a kitkat have	calories
+do cheetos have a lot of calories	calories
+how many calories does a scoop of chocolate ice cream contain	calories
+how many calories are in chocolate ice cream	calories
+what's the caloric content of an apple	calories
+how can i make chicken pot pie	recipe
+find a good recipe for meatloaf	recipe
+how do you make blue cheese dressing	recipe
+how do you create pork chili	recipe
+can you get me recipes for eggs please	recipe
+what do i need to do to make blackberry pie	recipe
+i need to know how to make philly cheesesteaks	recipe
+i need a recipe for chicken cordon bleu	recipe
+i would like you to help me find a chow mein recipe	recipe
+give me a tuna salad recipe	recipe
+how do you make dumplings	recipe
+how do i make chicken alfredo	recipe
+where is a beef recipe	recipe
+what do i need to do to cook a chicken	recipe
+you know procedure to cook apple pie	recipe
+what is the most time i can keep a burrito frozen for before it's no good to eat	food_last
+how long are eggs good for	food_last
+how long can i keep pork in the freezer for before it gets freezer burnt	food_last
+is it okay to eat chicken that i put in the fridge on monday	food_last
+i've got some chips from monday, will they still be ok to eat	food_last
+how long can i keep deer meat in the freezer before it's unedible	food_last
+what's the shelf life for eggs in the fridge	food_last
+tell me how long can i keep pizza in the freezer for before it goes bad	food_last
+what is the expiration date for those eg	food_last
+is there a time limit on leaving pork in the fridge	food_last
+when does the honey expire	food_last
+what is the fridge life of spahghetti	food_last
+what is the expiration date for honey	food_last
+if i have garlic from sunday is it still fine to use	food_last
+when will my milk be no good	food_last
+i want to cancel my reservation for network to xaga such	cancel_reservation
+scrap reservation at 4 for red robin	cancel_reservation
+cancel my reservation for chris at jp field's	cancel_reservation
+cancel my reservation for 3 at carlos jr	cancel_reservation
+i need to cancel my reservations	cancel_reservation
+im not gonna need the dinner reservation	cancel_reservation
+cancel my reservation for dinner this saturday, please	cancel_reservation
+can you cancel my 5:30 pm table reservation at parc	cancel_reservation
+call the restaurant and cancel my reservation	cancel_reservation
+scrap that dinner reservation	cancel_reservation
+please cancel my reservation for 5 at red robin	cancel_reservation
+cancel my reservation for 4 at red robin	cancel_reservation
+please delete the reservation for roberts at village tavern	cancel_reservation
+please cancel my reservation for dinner	cancel_reservation
+forget reservation at longhorn for 4	cancel_reservation
+can you give me a vietnamese dinner suggestion	meal_suggestion
+i would like you to give me a suggestion for a mexican meal	meal_suggestion
+what do you think would be a good dinner	meal_suggestion
+look up a recipe for dinner to suggest to me	meal_suggestion
+what would you suggest having for dinner	meal_suggestion
+suggest a meal from india to me	meal_suggestion
+what would you suggest for dinner	meal_suggestion
+i need dinner ideas	meal_suggestion
+what kind of mexican meal should i get	meal_suggestion
+suggest an italian meal for me	meal_suggestion
+do you have any ideas for a mexican meal	meal_suggestion
+suggest an italian meal to me	meal_suggestion
+can you suggest a mexican dish	meal_suggestion
+can you give me a burmese dinner suggestion	meal_suggestion
+would you provide me with italian cuisine dinner suggestions	meal_suggestion
+what's the nutritional info for a cheeseburger	nutrition_info
+i want to know how nutritious an avocado typically is	nutrition_info
+do you know the nutritional info for macaroni and cheese	nutrition_info
+share the nutrition info for brownies with me	nutrition_info
+can you read to me the nutritional info for macaroni and cheese	nutrition_info
+tell me nutritional info for burger	nutrition_info
+is chocolate healthy	nutrition_info
+where are the nutrition facts for cheerios	nutrition_info
+read me the nutrional info of a bag of lay's potato chips	nutrition_info
+i need to see the chicken salad's nutritional info	nutrition_info
+what are the nutrition facts for macaroni and cheese	nutrition_info
+how healthy is shepard's pie	nutrition_info
+can you give me information about the nutrition facts for celery	nutrition_info
+i would like you to share with me the nutrition info for chicken nuggets	nutrition_info
+can you tell me how healthy apples are	nutrition_info
+where should we eat tonight	restaurant_suggestion
+what decent restaurants around here are italian	restaurant_suggestion
+what are some good vegan restaurants in broadripple	restaurant_suggestion
+what are good restaurants in reno that serve sushi	restaurant_suggestion
+i'm hungry, where should i go	restaurant_suggestion
+i would love to find a few vegan restaurants in back bay	restaurant_suggestion
+where's a good place to get some grub	restaurant_suggestion
+which restaurants in reno are good for sushi	restaurant_suggestion
+where are the best places to eat	restaurant_suggestion
+can you find a keto friendly restaurant	restaurant_suggestion
+can you suggest a thai restaurant	restaurant_suggestion
+where would you eat italian in chicago	restaurant_suggestion
+can you suggest a french restaurant, please	restaurant_suggestion
+i want to eat out, where should i go	restaurant_suggestion
+is there a good fish place in salem	restaurant_suggestion
+listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm	restaurant_reservation
+can you get me a table for 5 at mcdonalds at 5pm	restaurant_reservation
+make a reservation for chik-fil-a at 3 o' clock please	restaurant_reservation
+could you make reservations for 2 at olive garden for 5 pm today	restaurant_reservation
+get me a table for five at itta bena at three	restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30, please	restaurant_reservation
+please reserve me a table for 2 pm at maxwell's on the 14th	restaurant_reservation
+i need a table for 3 at olive garden for 7	restaurant_reservation
+make a reservation at 5 pm today for 2 at olive garden	restaurant_reservation
+give me a table for 3 at o'reilly's bar for 7 please	restaurant_reservation
+can i reserve a table for 2 at the olive garden at 8	restaurant_reservation
+please make a reservation for us at joy bar for 4 adults	restaurant_reservation
+will you reserve a table at olive garden for 3 people at 7	restaurant_reservation
+book a reservation for 6 at shakey's under the name jason	restaurant_reservation
+check reservation availability for 2 at red lobster at 8pm	restaurant_reservation
+what is needed to cook lasagna	ingredients_list
+what will i need to make lasagna	ingredients_list
+what ingredients do i need to make potato skins	ingredients_list
+what goes in broccoli cheddar soup	ingredients_list
+i need to know the ingredients in a hamburger	ingredients_list
+in making an omelette, what ingredients do i need	ingredients_list
+what ingredients do i need for chicken breast	ingredients_list
+what do i need to buy to make a spaghetti	ingredients_list
+what ingredients are in antipasto salad	ingredients_list
+what should i buy to make burritos tonight	ingredients_list
+let me know the ingredients i will need for pasta making	ingredients_list
+what ingredients go in spaghetti	ingredients_list
+what foods do i buy to put into a korean dinner	ingredients_list
+what all is in gumbo	ingredients_list
+what ingredients are in tortillas	ingredients_list
+is it acceptable to swap rice for quinoa	ingredient_substitution
+can i substitute cream for milk	ingredient_substitution
+can i use lettuce instead of rice	ingredient_substitution
+are you able to sub white sugar for brown sugar	ingredient_substitution
+would it be a problem to sub chips instead of fries	ingredient_substitution
+can i use normal flour if i don't have bread flour	ingredient_substitution
+would it be possible to replace the salt with baking soda	ingredient_substitution
+do you know if i can use pepper and not salt	ingredient_substitution
+i don't have sour cream, can i use yogurt instead	ingredient_substitution
+can i use flour instead of cornstarch to make gravy	ingredient_substitution
+could i use olive oil instead of grape seed oil	ingredient_substitution
+is it possible to use starch instead of flour	ingredient_substitution
+i need to swap salt for baking soda	ingredient_substitution
+can i use sour cream instead of milk	ingredient_substitution
+can i use regular olive oil instead of virgin	ingredient_substitution

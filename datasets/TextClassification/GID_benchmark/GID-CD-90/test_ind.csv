@@ -1,0 +1,226 @@
+text	label
+does tartine in san francisco take reservations	accept_reservations
+do you know if benihana does reservations	accept_reservations
+does the steakhouse on main st take reservations	accept_reservations
+does long horns do reservations	accept_reservations
+can you tell me if zeus does reservations	accept_reservations
+i need to know if capones does reservations in trenton	accept_reservations
+does burger king accept reservations	accept_reservations
+do they take reservations at bar tartine	accept_reservations
+will they take reservations at chillis	accept_reservations
+does the zen garden in la take reservations	accept_reservations
+can you make a reservation at michael's	accept_reservations
+does the new york restaurant take reservations	accept_reservations
+do you know if olive garden does reservations	accept_reservations
+let me know if grub burger takes reservations	accept_reservations
+is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+is the friday's full after 4	how_busy
+does ihop have a lot of business around 7 am	how_busy
+is the restaurant busy at lunchtime	how_busy
+is that restaurant crowded during dinner	how_busy
+find out how busy ihop usually is around 5 pm	how_busy
+do you know how long of a wait it will be	how_busy
+how long would i have to wait if i want to go to golden corral	how_busy
+what is the wait supposed to be at zippys	how_busy
+when will the restaurant be busiest	how_busy
+how busy do you expect olive garden to be at 6	how_busy
+how long to be seated at carrabas	how_busy
+i need to know about how much time i'd have to wait to get a table at dibruno's	how_busy
+how long does it take to get a table at chili's	how_busy
+how busy is zippy around 12 for lunch	how_busy
+how busy is imanas at 6	how_busy
+does chili's have good reviews	restaurant_reviews
+how are people liking the sushi at yakamoto	restaurant_reviews
+how good are the ratings for papa john's	restaurant_reviews
+what are the reviews like for l'auberge aubergine	restaurant_reviews
+how are the donuts reviews at tgi	restaurant_reviews
+how many stars does brasserie les halles have	restaurant_reviews
+how good are the ratings for olive garden	restaurant_reviews
+does ihop have positive reviews	restaurant_reviews
+look up the ratings for olive garden	restaurant_reviews
+is the review ned's have good	restaurant_reviews
+do people like the food at wendy's	restaurant_reviews
+how good are the ratings for chic-fil-a	restaurant_reviews
+what are the reviews like for khin khao	restaurant_reviews
+does outback steakhouse have good reviews	restaurant_reviews
+does cielo have good reviews	restaurant_reviews
+i need to make sure there is a reservation for george at connor oneil's	confirm_reservation
+i'd like for you to make sure my reservation is there for charlie's under jack	confirm_reservation
+can you confirm my reservation for jaime at red lobster	confirm_reservation
+can you check and see i have a reservation under alex for bon apetite	confirm_reservation
+i need you to confirm that there is a reservation under the name david kramer for 7:00 pm at pietro's	confirm_reservation
+i need to confirm my reservation for red lobster for frank	confirm_reservation
+can you confirm my reservation for 6 pm on the 13th of february	confirm_reservation
+check on my reservation for umami at 6pm	confirm_reservation
+will you make sure robert has a reservation at ruth's steakhouse	confirm_reservation
+confirm that there is a reservation at bellagio for thomas	confirm_reservation
+i want my reservation for march 1 at 8 pm confirmed	confirm_reservation
+i would like to try and confirm that i have a reservation at chili's for bart	confirm_reservation
+please tell me if i still have a reservation at acero for susie	confirm_reservation
+do i have a reservation for may 1st, 2019 at 4 pm	confirm_reservation
+can you confirm my reservation for 6 at the outback	confirm_reservation
+the sauce must simmer then go in the oven but for how long	cook_time
+for how long does this need to cook	cook_time
+how long does it take to bake a cake	cook_time
+what's the preparation time for this dish	cook_time
+how long should i cook steak for	cook_time
+how long should i cook my turkey	cook_time
+what do i set the timer for if i'm making gyoza	cook_time
+what are the minutes needed to cook the meal	cook_time
+how long should i cook the pasta for	cook_time
+i need the cooking length for a turkey	cook_time
+how long do cheeseburgers take to make	cook_time
+how long to microwave a pizza	cook_time
+how long do i need to cook roast for	cook_time
+how long does this dish need to be in the oven	cook_time
+how long does it take to cook ham	cook_time
+how many calories are found in bagels	calories
+how many calories are in a piece of bacon	calories
+what's the expected calorie load of a peanut butter and jelly sandwich	calories
+what is the calorie count in a cookie	calories
+what is the calorie content in peanut butter	calories
+tell me the calorie content for an apple	calories
+what is the caloric value of a cookie	calories
+how many calories can i expect to be in fries	calories
+can you tell me the number of calories in one serving of whole cashews	calories
+what's the number of calories in a coke	calories
+how many calories does a kitkat have	calories
+do cheetos have a lot of calories	calories
+how many calories does a scoop of chocolate ice cream contain	calories
+how many calories are in chocolate ice cream	calories
+what's the caloric content of an apple	calories
+how can i make chicken pot pie	recipe
+find a good recipe for meatloaf	recipe
+how do you make blue cheese dressing	recipe
+how do you create pork chili	recipe
+can you get me recipes for eggs please	recipe
+what do i need to do to make blackberry pie	recipe
+i need to know how to make philly cheesesteaks	recipe
+i need a recipe for chicken cordon bleu	recipe
+i would like you to help me find a chow mein recipe	recipe
+give me a tuna salad recipe	recipe
+how do you make dumplings	recipe
+how do i make chicken alfredo	recipe
+where is a beef recipe	recipe
+what do i need to do to cook a chicken	recipe
+you know procedure to cook apple pie	recipe
+what is the most time i can keep a burrito frozen for before it's no good to eat	food_last
+how long are eggs good for	food_last
+how long can i keep pork in the freezer for before it gets freezer burnt	food_last
+is it okay to eat chicken that i put in the fridge on monday	food_last
+i've got some chips from monday, will they still be ok to eat	food_last
+how long can i keep deer meat in the freezer before it's unedible	food_last
+what's the shelf life for eggs in the fridge	food_last
+tell me how long can i keep pizza in the freezer for before it goes bad	food_last
+what is the expiration date for those eg	food_last
+is there a time limit on leaving pork in the fridge	food_last
+when does the honey expire	food_last
+what is the fridge life of spahghetti	food_last
+what is the expiration date for honey	food_last
+if i have garlic from sunday is it still fine to use	food_last
+when will my milk be no good	food_last
+i want to cancel my reservation for network to xaga such	cancel_reservation
+scrap reservation at 4 for red robin	cancel_reservation
+cancel my reservation for chris at jp field's	cancel_reservation
+cancel my reservation for 3 at carlos jr	cancel_reservation
+i need to cancel my reservations	cancel_reservation
+im not gonna need the dinner reservation	cancel_reservation
+cancel my reservation for dinner this saturday, please	cancel_reservation
+can you cancel my 5:30 pm table reservation at parc	cancel_reservation
+call the restaurant and cancel my reservation	cancel_reservation
+scrap that dinner reservation	cancel_reservation
+please cancel my reservation for 5 at red robin	cancel_reservation
+cancel my reservation for 4 at red robin	cancel_reservation
+please delete the reservation for roberts at village tavern	cancel_reservation
+please cancel my reservation for dinner	cancel_reservation
+forget reservation at longhorn for 4	cancel_reservation
+can you give me a vietnamese dinner suggestion	meal_suggestion
+i would like you to give me a suggestion for a mexican meal	meal_suggestion
+what do you think would be a good dinner	meal_suggestion
+look up a recipe for dinner to suggest to me	meal_suggestion
+what would you suggest having for dinner	meal_suggestion
+suggest a meal from india to me	meal_suggestion
+what would you suggest for dinner	meal_suggestion
+i need dinner ideas	meal_suggestion
+what kind of mexican meal should i get	meal_suggestion
+suggest an italian meal for me	meal_suggestion
+do you have any ideas for a mexican meal	meal_suggestion
+suggest an italian meal to me	meal_suggestion
+can you suggest a mexican dish	meal_suggestion
+can you give me a burmese dinner suggestion	meal_suggestion
+would you provide me with italian cuisine dinner suggestions	meal_suggestion
+what's the nutritional info for a cheeseburger	nutrition_info
+i want to know how nutritious an avocado typically is	nutrition_info
+do you know the nutritional info for macaroni and cheese	nutrition_info
+share the nutrition info for brownies with me	nutrition_info
+can you read to me the nutritional info for macaroni and cheese	nutrition_info
+tell me nutritional info for burger	nutrition_info
+is chocolate healthy	nutrition_info
+where are the nutrition facts for cheerios	nutrition_info
+read me the nutrional info of a bag of lay's potato chips	nutrition_info
+i need to see the chicken salad's nutritional info	nutrition_info
+what are the nutrition facts for macaroni and cheese	nutrition_info
+how healthy is shepard's pie	nutrition_info
+can you give me information about the nutrition facts for celery	nutrition_info
+i would like you to share with me the nutrition info for chicken nuggets	nutrition_info
+can you tell me how healthy apples are	nutrition_info
+where should we eat tonight	restaurant_suggestion
+what decent restaurants around here are italian	restaurant_suggestion
+what are some good vegan restaurants in broadripple	restaurant_suggestion
+what are good restaurants in reno that serve sushi	restaurant_suggestion
+i'm hungry, where should i go	restaurant_suggestion
+i would love to find a few vegan restaurants in back bay	restaurant_suggestion
+where's a good place to get some grub	restaurant_suggestion
+which restaurants in reno are good for sushi	restaurant_suggestion
+where are the best places to eat	restaurant_suggestion
+can you find a keto friendly restaurant	restaurant_suggestion
+can you suggest a thai restaurant	restaurant_suggestion
+where would you eat italian in chicago	restaurant_suggestion
+can you suggest a french restaurant, please	restaurant_suggestion
+i want to eat out, where should i go	restaurant_suggestion
+is there a good fish place in salem	restaurant_suggestion
+listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm	restaurant_reservation
+can you get me a table for 5 at mcdonalds at 5pm	restaurant_reservation
+make a reservation for chik-fil-a at 3 o' clock please	restaurant_reservation
+could you make reservations for 2 at olive garden for 5 pm today	restaurant_reservation
+get me a table for five at itta bena at three	restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30, please	restaurant_reservation
+please reserve me a table for 2 pm at maxwell's on the 14th	restaurant_reservation
+i need a table for 3 at olive garden for 7	restaurant_reservation
+make a reservation at 5 pm today for 2 at olive garden	restaurant_reservation
+give me a table for 3 at o'reilly's bar for 7 please	restaurant_reservation
+can i reserve a table for 2 at the olive garden at 8	restaurant_reservation
+please make a reservation for us at joy bar for 4 adults	restaurant_reservation
+will you reserve a table at olive garden for 3 people at 7	restaurant_reservation
+book a reservation for 6 at shakey's under the name jason	restaurant_reservation
+check reservation availability for 2 at red lobster at 8pm	restaurant_reservation
+what is needed to cook lasagna	ingredients_list
+what will i need to make lasagna	ingredients_list
+what ingredients do i need to make potato skins	ingredients_list
+what goes in broccoli cheddar soup	ingredients_list
+i need to know the ingredients in a hamburger	ingredients_list
+in making an omelette, what ingredients do i need	ingredients_list
+what ingredients do i need for chicken breast	ingredients_list
+what do i need to buy to make a spaghetti	ingredients_list
+what ingredients are in antipasto salad	ingredients_list
+what should i buy to make burritos tonight	ingredients_list
+let me know the ingredients i will need for pasta making	ingredients_list
+what ingredients go in spaghetti	ingredients_list
+what foods do i buy to put into a korean dinner	ingredients_list
+what all is in gumbo	ingredients_list
+what ingredients are in tortillas	ingredients_list
+is it acceptable to swap rice for quinoa	ingredient_substitution
+can i substitute cream for milk	ingredient_substitution
+can i use lettuce instead of rice	ingredient_substitution
+are you able to sub white sugar for brown sugar	ingredient_substitution
+would it be a problem to sub chips instead of fries	ingredient_substitution
+can i use normal flour if i don't have bread flour	ingredient_substitution
+would it be possible to replace the salt with baking soda	ingredient_substitution
+do you know if i can use pepper and not salt	ingredient_substitution
+i don't have sour cream, can i use yogurt instead	ingredient_substitution
+can i use flour instead of cornstarch to make gravy	ingredient_substitution
+could i use olive oil instead of grape seed oil	ingredient_substitution
+is it possible to use starch instead of flour	ingredient_substitution
+i need to swap salt for baking soda	ingredient_substitution
+can i use sour cream instead of milk	ingredient_substitution
+can i use regular olive oil instead of virgin	ingredient_substitution
