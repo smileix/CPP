@@ -1,0 +1,123 @@
+text	label
+Why was I charged $1 in a transaction?	extra_charge_on_statement
+Why have I been charged an extra pound?	extra_charge_on_statement
+I had a dollar charged to my account that's still pending and wanted to know what the charge is for?	extra_charge_on_statement
+Can you tell me about why the account I have was charged an extra 1$	extra_charge_on_statement
+Where did the  €1 fee in my statement come from	extra_charge_on_statement
+In my statement, there was an extra €1 fee	extra_charge_on_statement
+I see a $1 charge in a transaction.	extra_charge_on_statement
+Is the 1 pound charge I can see an error or an incorrect entry?	extra_charge_on_statement
+Why has another fee been placed on my statement?	extra_charge_on_statement
+There is an unexplained charge on my statement, can you please explain this to me?	extra_charge_on_statement
+Why did you charge me extra?	extra_charge_on_statement
+why is there a service fee on my statement?	extra_charge_on_statement
+I do not understand why there is a pending 1£ charge on my statement, I do not recall making this transaction. Can you please tell me what this is about?	extra_charge_on_statement
+I've been charged an extra £1 and I don't know why	extra_charge_on_statement
+What does the €1 fee mean?	extra_charge_on_statement
+I was charged an extra dollar on my account and would like to know the reason.	extra_charge_on_statement
+My statement is showing an extra £1 charge and I am unsure why. Is there an explanation for this?	extra_charge_on_statement
+I've transferred money into my account but the balance is the same	balance_not_updated_after_bank_transfer
+I am still waiting for a transfer I did	balance_not_updated_after_bank_transfer
+Why isn't the transferred money there?	balance_not_updated_after_bank_transfer
+When is my balance going to update, I just transferred some money	balance_not_updated_after_bank_transfer
+The transfer I made isn't reflected in my balance	balance_not_updated_after_bank_transfer
+How long do transfers take to show up in my account?	balance_not_updated_after_bank_transfer
+Why hasn't my account updated to reflect my current balance?	balance_not_updated_after_bank_transfer
+I just transferred some money into my account and do not see it updated yet, can you assist?	balance_not_updated_after_bank_transfer
+I transferred some money but the balance stayed the same.	balance_not_updated_after_bank_transfer
+The money that I have transferred hasn't arrived yet.	balance_not_updated_after_bank_transfer
+When will I see an updated balance after a transfer?	balance_not_updated_after_bank_transfer
+Hello, can you please inform me about international transfers? I am expecting a transfer I made from France two days ago and would like to know when it will arrive.	balance_not_updated_after_bank_transfer
+How long does transfers take?	balance_not_updated_after_bank_transfer
+Why is my transfer not showing	balance_not_updated_after_bank_transfer
+There is a missing transfer on my account	balance_not_updated_after_bank_transfer
+Why hasn't my money transfer showed up yet?	balance_not_updated_after_bank_transfer
+How long do bank transfers usually take?	balance_not_updated_after_bank_transfer
+I haven't received my transfer funds yet, where are they?	pending_transfer
+Why does my transfer say it is pending?	pending_transfer
+The transfer finally worked, but how long does it stay pending?	pending_transfer
+Transfers may show up as pending for up to one business day while they are processed, and then they'll depart for the beneficiary accounts. Please confirm that you have correctly entered your account details. SEPA transfers typically take up to two working days, while SWIFT transfers can take up to five working days.	pending_transfer
+How long will my transfer stay pending?	pending_transfer
+How long will the transfer take?	pending_transfer
+Why is the transaction not posting?	pending_transfer
+Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.	pending_transfer
+I'm still waiting for a money transfer to show.	pending_transfer
+My transfer is quite urgent, and finally worked out, but I've been waiting for it for quite some time. Can you tell me how long to expect to wait for it?	pending_transfer
+Why is a transfer I did recently still processing?	pending_transfer
+Why is my transfer stuck on pending?	pending_transfer
+I've been waiting for a pending transfer to go through for a while now, and don't see any reason why I've been waiting this long.  I know that I have the correct account details, so that isn't the problem.	pending_transfer
+Why does my transfer still say it is pending?	pending_transfer
+I'm confused as to why my transfer is still listed as pending on the website.	pending_transfer
+Someone withdrew money from my account, and it wasn't me.	cash_withdrawal_not_recognised
+There is a withdrawal in my account I didn't make.	cash_withdrawal_not_recognised
+I see cash in my app but I did not get it.	cash_withdrawal_not_recognised
+Help!  The app has an ATM withdrawl that I didn't make.	cash_withdrawal_not_recognised
+I am seeing in the App a some cash withdrawal that I did not do	cash_withdrawal_not_recognised
+My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!	cash_withdrawal_not_recognised
+There's an unauthorized cash withdraw	cash_withdrawal_not_recognised
+My app statement shows I took out cash from an ATM but I did not. What can I do?	cash_withdrawal_not_recognised
+THere is some cash that is showing up on my app.	cash_withdrawal_not_recognised
+Please help me figure out the reason for the odd withdrawal amount from my account?	cash_withdrawal_not_recognised
+Some cash withdrawal that I didn't make showed up in the app.	cash_withdrawal_not_recognised
+I have a cash withdrawal that I don't recognize.	cash_withdrawal_not_recognised
+There is a cash withdrawal on my statement that I don't recognize	cash_withdrawal_not_recognised
+There's a $200 withdrawal on my statement that seems fishy to me.	cash_withdrawal_not_recognised
+There is money missing from my account.	cash_withdrawal_not_recognised
+I need your help immediately.  There is a 500£ cash withdrawal that I know nothing about.  I think my account has become compromised.	cash_withdrawal_not_recognised
+how to recover my passcode	passcode_forgotten
+How do I get the passcode reset?	passcode_forgotten
+Not sure what my password is.	passcode_forgotten
+Can someone help with my passcode?	passcode_forgotten
+Disaster, I've totally forgotten my passcode, can you help me?	passcode_forgotten
+Help me!  I don't know what my password is.	passcode_forgotten
+The passcode isn't working for me.	passcode_forgotten
+I can't find my code	passcode_forgotten
+I lost my passcode.	passcode_forgotten
+I don't know what my passcode is, can you help?	passcode_forgotten
+My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?	card_payment_wrong_exchange_rate
+Why was the wrong rate applied when I bought something in a different currency?	card_payment_wrong_exchange_rate
+Why is your exchange rate so bad?	card_payment_wrong_exchange_rate
+The exchange rate from my card payment isn't right.	card_payment_wrong_exchange_rate
+The exchange rate for my payment last Saturday must be wrong because I was charged extra.	card_payment_wrong_exchange_rate
+the exchange rate is wrong from something I got in another country	card_payment_wrong_exchange_rate
+I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund.	card_payment_wrong_exchange_rate
+I was charged the wrong exchange rate on a purchase	card_payment_wrong_exchange_rate
+Exchange rate for my card payment is wrong	card_payment_wrong_exchange_rate
+Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?	card_payment_wrong_exchange_rate
+Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.	card_payment_wrong_exchange_rate
+I think there was an error in your exchange rate.	card_payment_wrong_exchange_rate
+A foreign purchase I made has the incorrect rate applied to it.	card_payment_wrong_exchange_rate
+Your exchange rate was off.  I was charged extra on my payment that I made last Saturday.	card_payment_wrong_exchange_rate
+The exchange rate looks wrong on a holiday purchase	card_payment_wrong_exchange_rate
+I have been charged way to much so something is apparently wrong with my exchange. I changed Russian Ruble into UK pounds.	card_payment_wrong_exchange_rate
+When I bought something abroad, the exchange rate was wrong.	card_payment_wrong_exchange_rate
+Is top-up possible with Apple Pay?	apple_pay_or_google_pay
+Will be Apple Watch be able to let me top up?	apple_pay_or_google_pay
+Is it possible for me to top up with Google Pay?	apple_pay_or_google_pay
+Top up is not working even though I have my AMEX in apple pay.	apple_pay_or_google_pay
+I cannot get my google pay to work.	apple_pay_or_google_pay
+Is topping up with Apple Pay possible?	apple_pay_or_google_pay
+I can't see my Google Pay top up. Is it not working correctly?	apple_pay_or_google_pay
+Am I able to top up with Apple Pay?	apple_pay_or_google_pay
+Can I use my Apple Watch to pay for gas?	apple_pay_or_google_pay
+Can I use my apple watch to top-up?	apple_pay_or_google_pay
+Can I top up using my apple watch?	apple_pay_or_google_pay
+google pay top up did not work	apple_pay_or_google_pay
+What do I do if my Google pay top up isn't working?	apple_pay_or_google_pay
+why was a extra fee added to my account for transfer ?	transfer_fee_charged
+Where did my extra fee for the transfer come from?	transfer_fee_charged
+I was charged a fee for the transfer, but can you tell me why?	transfer_fee_charged
+Why did you charge me a fee when I made a transfer?	transfer_fee_charged
+Why was there a transfer fee on my account?	transfer_fee_charged
+When I made a transfer I was charged extra.	transfer_fee_charged
+Why was I charged a random fee for a transfer I made?	transfer_fee_charged
+I make payments for my place abroad using this account and since i use it so frequently I was wondering why did the fees increase suddenly rather than decreasing? I would think customers like me should receive incentives for using your service	transfer_fee_charged
+Is there a fee for transferring money	transfer_fee_charged
+When I was transferring money I was charged extra why?	transfer_fee_charged
+I transferred money, but I think I've been charged a fee for it?	transfer_fee_charged
+I was charged a fee when I transferred my funds, why?	transfer_fee_charged
+A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?	transfer_fee_charged
+There's something wrong on my bill. A transfer fee should never have been added.	transfer_fee_charged
+I just transferred some money. Why was I charged a fee?	transfer_fee_charged
+I noticed a charge for a transfer.  Why is this?  Is it because I did an international transfer?	transfer_fee_charged
+There is a fee from a transfer that is not supposed to be here!	transfer_fee_charged

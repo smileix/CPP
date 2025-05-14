@@ -1,0 +1,226 @@
+text	label
+what is the traffic like on the road to downtown dallas	traffic
+what is the traffic like on the way to town	traffic
+is traffic bad on the parkway	traffic
+what will traffic be like nearest the george washington bridge, new york	traffic
+what is the traffic like at the closest safeway grocery store	traffic
+i need ti know the traffic in tempe	traffic
+i have to know what the traffic typically like at 3:30 on the route to phoenix	traffic
+i must know what the traffic typically like at 3:30 on the route to phoenix	traffic
+how clogged are the streets before the stadium	traffic
+tell me the traffic in tempe	traffic
+what's the traffic like on the way to the amusement park	traffic
+give me an idea of traffic on the way to the doctors office at 6	traffic
+will i encounter traffic	traffic
+will there be heavy traffic near downtown philadelphia from lincoln drive in the next two hours	traffic
+is the traffic backed up at the closest circle k	traffic
+is the friday's full after 4	how_busy
+does ihop have a lot of business around 7 am	how_busy
+is the restaurant busy at lunchtime	how_busy
+is that restaurant crowded during dinner	how_busy
+find out how busy ihop usually is around 5 pm	how_busy
+do you know how long of a wait it will be	how_busy
+how long would i have to wait if i want to go to golden corral	how_busy
+what is the wait supposed to be at zippys	how_busy
+when will the restaurant be busiest	how_busy
+how busy do you expect olive garden to be at 6	how_busy
+how long to be seated at carrabas	how_busy
+i need to know about how much time i'd have to wait to get a table at dibruno's	how_busy
+how long does it take to get a table at chili's	how_busy
+how busy is zippy around 12 for lunch	how_busy
+how busy is imanas at 6	how_busy
+i need help with some fun tourist things to do in tokyo	travel_suggestion
+what are some popular tourist activities in mexico city	travel_suggestion
+if i go to evans, what should i do	travel_suggestion
+what are the big tourist sites in sweden	travel_suggestion
+what's there to do in seattle	travel_suggestion
+find out the best tourist attractions to visit in moscow	travel_suggestion
+help me find things to do in nashville	travel_suggestion
+where should i book my next trip	travel_suggestion
+what are some of the attractions in gatlinburg	travel_suggestion
+can i do a lot in nashville	travel_suggestion
+are there any interesting things to do in atlanta, georgia	travel_suggestion
+what are the main attractions in gatlinburg	travel_suggestion
+what's a good place to travel to	travel_suggestion
+what experiences does kentucky offer	travel_suggestion
+what are some interesting things i can do while in raleigh	travel_suggestion
+thank you for the heip	thank_you
+thanks for letting me know	thank_you
+you have my gratitude	thank_you
+i'm grateful to you	thank_you
+thank you for helping me	thank_you
+i thank you	thank_you
+you've been a big help	thank_you
+i would like to thank you ai	thank_you
+your efforts don't go unnoticed	thank_you
+i'm grateful for the assistance	thank_you
+thanks a million	thank_you
+thanks!	thank_you
+thanks so much!	thank_you
+thanks so much	thank_you
+thanks for the reply	thank_you
+what does my federal tax return look like	taxes
+what do you think will be the result of my federal tax return	taxes
+how much do i need to pay in tax	taxes
+how much will my state taxes be	taxes
+please share my federal taxes total with me	taxes
+how much am i going to have to pay in taxes to the state	taxes
+what amount of money do i pay in taxes, please	taxes
+what will i need to pay in federal taxes	taxes
+how much will i have to pay in federal taxes	taxes
+what is my state taxes currently	taxes
+how much do i pay in taxes	taxes
+what's my income tax	taxes
+what do i owe the government on my taxes	taxes
+how much are taxes in my state	taxes
+how much is my state taxes	taxes
+put a tire inspection on my schedule please	schedule_maintenance
+should i take my car to a maintenance	schedule_maintenance
+i need to get my oil change so make an appointment	schedule_maintenance
+schedule me an appointment to get my tires checked out	schedule_maintenance
+i want to schedule somewhere get my tires checked out	schedule_maintenance
+i need an appointment to get my oil changed	schedule_maintenance
+i need to schedule some car maintenance	schedule_maintenance
+can you please make an appointment for me to get my tires checked out	schedule_maintenance
+where can i go to have my tires checked out	schedule_maintenance
+can you schedule me a mechanic	schedule_maintenance
+make a reminder to schedule a tire check	schedule_maintenance
+can you see if i can make an appointment to have my oil changed	schedule_maintenance
+set an appointment for an oil change	schedule_maintenance
+i require a car maintenance	schedule_maintenance
+i got to schedule some car maintenance	schedule_maintenance
+what kind of hobbies does the ai have	what_are_your_hobbies
+what do you do after work	what_are_your_hobbies
+if you have hobbies tell me some of them	what_are_your_hobbies
+what are ai's hobbies	what_are_your_hobbies
+what sort of hobbies are you into	what_are_your_hobbies
+any hobbies you like to do	what_are_your_hobbies
+what are your hobbies exactly	what_are_your_hobbies
+so what do you do at free time	what_are_your_hobbies
+what kinds of things do you do for hobbies	what_are_your_hobbies
+what sorts of things do you do for fun	what_are_your_hobbies
+i like to paint in my free time-do you have any hobbies like that	what_are_your_hobbies
+what hobbies do you have alexa	what_are_your_hobbies
+what do you do in your down time	what_are_your_hobbies
+what sorts of things do you do to have a good time	what_are_your_hobbies
+what hobbies do you like	what_are_your_hobbies
+do you know when the best time for me to change my tires next would be	tire_change
+tell when should i get my tires changed next	tire_change
+would i need new tires if my last purchase was in may of 2018	tire_change
+how soon till i need to change my tires	tire_change
+when would it be wise for me to swap out my tires	tire_change
+tell me when to get my tires changed	tire_change
+when would be a wise time to replace my tires	tire_change
+is there a time when i should get my tires changed	tire_change
+i replaced my tires last year when should i replace my tires again	tire_change
+i purchased new tires yesterday, should i buy new ones	tire_change
+tell me when i'll need new tires	tire_change
+when should i get my tires changed again	tire_change
+are my tires due to be changed	tire_change
+at what point will i need to change my tires	tire_change
+how many more miles can i drive before changing my tires	tire_change
+i need to tell you about my lost card	report_lost_card
+i need to report my stolen card	report_lost_card
+my capital one credit card was stolen	report_lost_card
+someone stole my discover card	report_lost_card
+my card is lost how do i report it	report_lost_card
+i think my card is stolen and needs to be reported	report_lost_card
+how do i report a lost discover credit card	report_lost_card
+i lost my amex and need to report it	report_lost_card
+how can i report a card that has been lost	report_lost_card
+how do i report that i actually lost my card	report_lost_card
+someone stole my discover credit card	report_lost_card
+i want you to repord my card as lost	report_lost_card
+i lost my card, what do i do	report_lost_card
+my stolen card needs to be reported	report_lost_card
+i need to report a card that's been lost but i dont know how	report_lost_card
+my visa has what limit	credit_limit
+what's the limit for my credit	credit_limit
+how much is my maximum to spend on credit cards	credit_limit
+what is the limit on my visa	credit_limit
+tell me the credit on my mastercard	credit_limit
+credit limit	credit_limit
+tell me the credit limit on my mastercard	credit_limit
+how high is my credit limit for my citigroup card	credit_limit
+what's my visa card's credit limit	credit_limit
+could you share what my current credit limit is	credit_limit
+what is my credit limit on my discover card	credit_limit
+how high is my credit limit	credit_limit
+what's my current credit limit	credit_limit
+how high is my credit limit for my bank of america card	credit_limit
+calculate the limit i have available for spending on my natwest card	credit_limit
+change the name that you call me	change_user_name
+they call me john	change_user_name
+john is my name	change_user_name
+please start calling me mandy	change_user_name
+you can call me jeff	change_user_name
+call me frank	change_user_name
+please change my name	change_user_name
+feel free to call me jim	change_user_name
+please refer to me as sharon	change_user_name
+call me ishmael	change_user_name
+my name is stu, not sue!	change_user_name
+change my name to master	change_user_name
+call me bob from now on	change_user_name
+you can call me steve	change_user_name
+my name is jim	change_user_name
+i need my credit score	credit_score
+how high is my credit score	credit_score
+tell me my credit score please	credit_score
+if i want my credit score, how do i find it	credit_score
+can you help me find my credit score	credit_score
+tell me my current credit rating	credit_score
+let me know my credit score	credit_score
+tell me the steps to getting my credit score	credit_score
+how do i find my credit score	credit_score
+how good is my credit score	credit_score
+any idea what my credit score is	credit_score
+i would love to know my credit score	credit_score
+please tell me what my credit score is	credit_score
+find my credit score	credit_score
+i wanna know my credit score	credit_score
+i need your help to pay my gas bill	pay_bill
+pay my light bill	pay_bill
+pay the cable bill with my visa card	pay_bill
+pay the red cross the monthly donation	pay_bill
+do a car payment from my savings account	pay_bill
+my electric bill should be paid today	pay_bill
+i need to make a bill payment	pay_bill
+i want to pay off my student loan	pay_bill
+i'd like to make a payment on my credit card bill	pay_bill
+i need to pay my water bill	pay_bill
+pay my cable bill from my checking account	pay_bill
+pay my insurance bill	pay_bill
+can you assist with my utility bill payment	pay_bill
+make a payment on the electric bill	pay_bill
+use my boa account to pay the cable bill	pay_bill
+how much money do i make from work	income
+how much do i make per day	income
+how much money was deposited to my bank account from my employer this month	income
+look up how much i earn annually	income
+what do i usually earn in a day	income
+how much money am i earning	income
+can you please tell me my income	income
+how much have i earned this week	income
+please tell me about my income	income
+i need to know my salary	income
+what are they paying me at work right now	income
+what amount do i make	income
+what're my wages for the week	income
+what is the exact number of my salary	income
+i need to know how much i make at my job	income
+are my tires good on pressure	tire_pressure
+what's my current tire pressure	tire_pressure
+how's the air pressure in my tires	tire_pressure
+are my tires in need of air	tire_pressure
+what's my tires' air pressure	tire_pressure
+please give me the amount of pressure in my car tires	tire_pressure
+tell me my car's tire pressure	tire_pressure
+what's my car's tire pressure	tire_pressure
+how is the car tire pressure doing	tire_pressure
+i need to know how low are my tires on air	tire_pressure
+please measure my tire pressure	tire_pressure
+do i need to fill my tires	tire_pressure
+how much air is in my tires	tire_pressure
+how much air are in my tires	tire_pressure
+what is my tire pressure	tire_pressure
