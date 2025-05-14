@@ -1,0 +1,101 @@
+dataset:
+  name: GID-CD
+  path: datasets/TextClassification/GID_benchmark/GID-CD-20
+
+plm:
+  model_name: bert
+#  model_path: /Work18/2020/weixiao/code/model/bert/bert_large_uncased
+  model_path: bert-base-uncased
+  optimize:
+    freeze_para: False
+    lr: 0.00003
+    weight_decay: 0.01
+    scheduler:
+      type: 
+      num_warmup_steps: 500
+
+train:
+  batch_size: 64
+
+test:
+  batch_size: 64
+
+dev:
+  batch_size: 64
+
+dataloader:
+  max_seq_length: 128
+
+template: ptuning_template
+#template: soft_template
+#verbalizer: manual_verbalizer
+verbalizer: soft_verbalizer
+
+
+ptuning_template:
+  choice: 1
+  file_path: scripts/TextClassification/GID/ptuning_template.txt
+
+manual_template:
+  choice: 1
+  file_path: scripts/TextClassification/GID/manual_template.txt
+
+soft_template:
+  choice: 1
+  file_path: scripts/TextClassification/GID/soft_template.txt
+  num_tokens: 1
+  initialize_from_vocab: true
+  random_range: 0.5
+  optimize:
+    name: AdamW
+    lr: 0.03
+    adam_epsilon: 1.0e-8
+    scheduler:
+      num_warmup_steps: 500
+
+manual_verbalizer:
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_CD_verbalizer.jsonl
+
+soft_verbalizer:
+  parent_config: verbalizer
+  choice: 0
+#  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer.jsonl
+#  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer_1.jsonl
+#  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer_2.jsonl
+#  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer_3.jsonl
+#  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer_4.jsonl
+  file_path: scripts/TextClassification/GID/GID_CD_20_verbalizer_5.jsonl
+
+  num_classes: 151
+
+classification:
+  metric: ['accuracy', 'weighted-f1']
+
+#environment:
+#  num_gpus: 4
+#  cuda_visible_devices:
+#    - 1
+#    - 2
+#    - 3
+#  local_rank: 0
+
+#learning_setting: few_shot
+learning_setting: full
+
+#few_shot:
+#  parent_config: learning_setting
+#  few_shot_sampling: sampling_from_train
+#
+#sampling_from_train:
+#  parent_config: few_shot_sampling
+#  num_examples_per_label: 10
+#  also_sample_dev: True
+#  num_examples_per_label_dev: 10
+#  seed:
+#    - 123
+#    - 456
+#    - 789
+#    - 321
+#    - 654
+

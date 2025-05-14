@@ -1,0 +1,157 @@
+dataset:
+  name: GID-SD
+  path: datasets/TextClassification/GID_benchmark/GID-SD-20
+#  path: datasets/TextClassification/GID_benchmark/GID-SD-40
+#  path: datasets/TextClassification/GID_benchmark/GID-SD-60
+plm:
+  model_name: bert
+#  model_name: roberta
+  model_path: bert-base-uncased
+#  model_path: /Work18/2020/weixiao/code/model/bert/bert_base_uncased
+#  model_path: /Work18/2020/weixiao/code/model/roberta/roberta_base
+#  model_path: /home/weixiao/plm/bert/bert_large_uncased
+  optimize:
+    freeze_para: False
+    lr: 0.00005
+    weight_decay: 0.01
+    scheduler:
+      type: 
+      num_warmup_steps: 500
+
+train:
+  batch_size: 64
+#  mode: pretrain
+#  mode: discover
+
+test:
+  batch_size: 64
+
+dev:
+  batch_size: 64
+
+dataloader:
+  max_seq_length: 128
+
+# 使用mixed模板会报错keyerror，使用ptuning模板添加soft类型字段时也会报错
+template: ptuning_template
+#template: soft_template
+#template: manual_template
+#template: mixed_template
+#template: ptr_template
+
+#verbalizer: manual_verbalizer
+verbalizer: soft_verbalizer
+#verbalizer: proto_verbalizer
+#verbalizer: knowledgeable_verbalizer
+#verbalizer: ptr_verbalizer
+
+
+
+
+ptuning_template:
+  choice: 0
+  file_path: scripts/TextClassification/GID/ptuning_template.txt
+
+manual_template:
+  choice: 0
+  file_path: scripts/TextClassification/GID/manual_template.txt
+
+mixed_template:
+  choice: 0
+  file_path: scripts/TextClassification/GID/mixed_template.txt
+#  file_path: scripts/TextClassification/GID/manual_template.txt
+
+soft_template:
+  choice: 0
+  file_path: scripts/TextClassification/GID/soft_template.txt
+  num_tokens: 20
+  initialize_from_vocab: true
+  random_range: 0.5
+  optimize:
+    name: AdamW
+    lr: 0.03
+    adam_epsilon: 1.0e-8
+    scheduler:
+      num_warmup_steps: 500
+
+ptr_template:
+  choice: 0
+  file_path: scripts/TextClassification/GID/ptuning_template.txt
+  optimize:
+    name: AdamW
+    adam_epsilon: 1.0e-8
+    lr: 0.00001
+
+
+manual_verbalizer:
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_SD_verbalizer.jsonl
+#  num_classes: 4
+
+soft_verbalizer:
+  parent_config: verbalizer
+  choice: 0
+#  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer.jsonl
+#  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer_1.jsonl
+#  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer_2.jsonl
+#  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer_3.jsonl
+#  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer_4.jsonl
+  file_path: scripts/TextClassification/GID/GID_SD_20_verbalizer_5.jsonl
+
+  num_classes: 78
+
+# one2one没啥用，应该就是把一句话拆解成诺干个单词，然后选择
+one2one_verbalizer:
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_SD_verbalizer_eg4.jsonl
+
+knowledgeable_verbalizer:
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_SD_verbalizer_eg4.jsonl
+#  num_classes: 4
+
+
+proto_verbalizer:
+  parent_config: verbalizer
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_SD_verbalizer_eg4.jsonl
+  lr: 0.01
+  mid_dim: 64
+  epochs: 30
+  multi_verb: multi
+
+ptr_verbalizer:
+  choice: 0
+  file_path: scripts/TextClassification/GID/GID_SD_verbalizer_eg4.jsonl
+
+classification:
+#  metric: ['accuracy']
+  metric: ['accuracy', 'weighted-f1']
+
+#environment:
+#  num_gpus: 4
+#  cuda_visible_devices:
+#    - 1
+#    - 2
+#    - 3
+#  local_rank: 0
+
+#learning_setting: few_shot
+learning_setting: full
+
+#few_shot:
+#  parent_config: learning_setting
+#  few_shot_sampling: sampling_from_train
+#
+#sampling_from_train:
+#  parent_config: few_shot_sampling
+#  num_examples_per_label: 10
+#  also_sample_dev: True
+#  num_examples_per_label_dev: 10
+#  seed:
+#    - 123
+#    - 456
+#    - 789
+#    - 321
+#    - 654
+

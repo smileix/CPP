@@ -1,0 +1,455 @@
+{
+    "payday": [
+        "payday like when is the next time i'll receive a paycheck or do you know when i can expect my next paycheck"
+    ],
+    "balance": [
+        "balance like can you tell me how much is left in my savings account or what is the total amount in my investment account"
+    ],
+    "rewards_balance": [
+        "rewards balance like what is the number of remaining rewards points on my chase card or how many points are on my gold card"
+    ],
+    "definition": [
+        "definition like what does alternative mean or can you tell me what dendrofilous means"
+    ],
+    "weather": [
+        "weather like what is the current weather like or what is the weather like tomorrow"
+    ],
+    "measurement_conversion": [
+        "measurement conversion like i need to know how many pounds are in 10 kilos or how do you convert miles to kilometers"
+    ],
+    "ingredient_substitution": [
+        "ingredient substitution like can i use almond milk instead of regular milk or can i swap yogurt for sour cream in this recipe"
+    ],
+    "bill_balance": [
+        "bill balance like could you check the amount i owe on my phone bill? or how much is my internet bill for the current billing cycle?"
+    ],
+    "direct_deposit": [
+        "direct deposit like how do i set up direct deposit for my fifth third account or i want to set up direct deposit for my paycheck, what do i need to do"
+    ],
+    "goodbye": [
+        "goodbye like until next time! or goodnight"
+    ],
+    "todo_list": [
+        "todo list like can you check if \"buy groceries\" is on my todo list or do i have \"water the plants\" on my todo list"
+    ],
+    "calories": [
+        "calories like can you tell me the calories in a chicken sandwich or what is the calorie content of a chocolate chip cookie"
+    ],
+    "change_user_name": [
+        "change user name like could you call me by a different name, please or could you call me a different name"
+    ],
+    "yes": [
+        "yes like yes you are or yep, that's right"
+    ],
+    "who_made_you": [
+        "who made you like who was the inventor of ai or who developed your actions"
+    ],
+    "restaurant_reviews": [
+        "restaurant reviews like is the food at momofuku worth trying or how are the reviews for the burgers at shake shack"
+    ],
+    "text": [
+        "text like get a text to mark or i want you to text mark"
+    ],
+    "mpg": [
+        "mpg like what is the mpg for this car in city or how many miles per gallon does this car get on the highway"
+    ],
+    "account_blocked": [
+        "account blocked like how do i unblock my bank account? or why is my bank account showing as blocked?"
+    ],
+    "w2": [
+        "w2 like can you access my w-2 or tell me where a w2 is available please"
+    ],
+    "pay_bill": [
+        "pay bill like i need to pay my cable bill or pay the gas bill from my business account"
+    ],
+    "repeat": [
+        "repeat like i did not hear you, please repeat or what was said"
+    ],
+    "cancel_reservation": [
+        "cancel reservation like please cancel the reservation i made for saturday evening or i need to cancel my dinner reservation for tonight"
+    ],
+    "translate": [
+        "translate like can you translate this sentence into spanish for me or what is the japanese word for thank you"
+    ],
+    "shopping_list_update": [
+        "shopping list update like can you add bread to my shopping list? or i\u2019m out of bananas, can you add them to my list?"
+    ],
+    "carry_on": [
+        "carry on like can i bring a carry-on and a personal item on jetblue or are there any weight limits for carry-on luggage on southwest"
+    ],
+    "roll_dice": [
+        "roll dice like roll the dice or throw the dice!"
+    ],
+    "who_do_you_work_for": [
+        "who do you work for like are you working for me or what or who are you currently working for"
+    ],
+    "traffic": [
+        "traffic like what does my commute look like or what kind of traffic can i expect on the way to church"
+    ],
+    "reset_settings": [
+        "reset settings like configure this to factory settings or make my settings go back to their factory settings"
+    ],
+    "time": [
+        "time like what's the current time now cst or what time is it right now in cst"
+    ],
+    "credit_score": [
+        "credit score like i wish to know my credit rating or what's my credit rating"
+    ],
+    "how_old_are_you": [
+        "how old are you like what is your birthday or tell me your age please"
+    ],
+    "make_call": [
+        "make call like please initiate a phone call to my boss or can you please call nata"
+    ],
+    "meeting_schedule": [
+        "meeting schedule like what time am i meeting with john or do i have any meetings today between 9 and 10:30"
+    ],
+    "freeze_account": [
+        "freeze account like how do i freeze my account for security reasons or can you temporarily block my bank account"
+    ],
+    "next_song": [
+        "next song like skip to the next one or what\u2019s the next song in the queue"
+    ],
+    "thank_you": [
+        "thank you like great, thanks! or i am happy you did that for me"
+    ],
+    "expiration_date": [
+        "expiration date like what is the expiration date on my credit card or how long will it be until my visa card expires"
+    ],
+    "rollover_401k": [
+        "rollover 401k like i need a 401k rolled over to my brand new job or i have to get my 401k rollover because i just got a new job"
+    ],
+    "card_declined": [
+        "card declined like i wonder why my card got declined yesterday or i was buying qtips today at walmart and my card got declined"
+    ],
+    "apr": [
+        "apr like tell me my credit card apr or can you find me the apr listed on the statement for my citi mastercard"
+    ],
+    "distance": [
+        "distance like how long will the trip to portland be or where is the closest gas station"
+    ],
+    "new_card": [
+        "new card like can you help me sign up for a new credit card or how do i go about applying for a macy's credit card"
+    ],
+    "what_are_your_hobbies": [
+        "what are your hobbies like can you tell me about your hobbies or what kind of hobbies do you like to do"
+    ],
+    "change_speed": [
+        "change speed like talker faster please or you are talking far too fast for me, can you slow it down a bit"
+    ],
+    "no": [
+        "no like false or no, that is not correct"
+    ],
+    "what_is_your_name": [
+        "what is your name like what are you called or what name do you answer to"
+    ],
+    "car_rental": [
+        "car rental like is it possible to rent an suv in seattle from august 1st to august 7th? or please book a rental car for me in miami from 7/20 to 7/25"
+    ],
+    "insurance": [
+        "insurance like what insurance benefits do i have or what's the healthcare plan i'm on"
+    ],
+    "maybe": [
+        "maybe like i don't know the answer to that or i have no earthly idea at all"
+    ],
+    "where_are_you_from": [
+        "where are you from like where did your parents have you or the place you were born is"
+    ],
+    "tire_change": [
+        "tire change like i replaced my tires in december, when should i replace them again or when will i need to replace my tires if i last replaced them on december 20"
+    ],
+    "min_payment": [
+        "min payment like what's the smallest amount i can pay on my water bill or what's the minimum amount due on my phone bill this month"
+    ],
+    "schedule_meeting": [
+        "schedule meeting like i want to schedule a meeting with tom for 6pm or open meeting rooms from one to three pm"
+    ],
+    "oil_change_how": [
+        "oil change how like show me how to change my oil or can you get me simple instructions on how to do an oil change"
+    ],
+    "greeting": [
+        "greeting like how is it going my friend or hello there, good morning"
+    ],
+    "tell_joke": [
+        "tell joke like would you tell me a joke or i need a good laugh"
+    ],
+    "ingredients_list": [
+        "ingredients list like what items are required to bake a chocolate cake or what do i need to make spaghetti carbonara"
+    ],
+    "current_location": [
+        "current location like talk to me about where im at right now or look my location up on the map"
+    ],
+    "order": [
+        "order like order a set of kitchen knives for me, please or i need to order a birthday gift for my friend"
+    ],
+    "transactions": [
+        "transactions like what were my expenses on my credit card yesterday or list all my transactions from the past 30 days"
+    ],
+    "calendar_update": [
+        "calendar update like can you block off tuesday afternoon on my calendar? or clear my calendar for the entire month of december"
+    ],
+    "exchange_rate": [
+        "exchange rate like convert 200 dollars to canadian dollars or how much is 1000 yen in us dollars"
+    ],
+    "lost_luggage": [
+        "lost luggage like how do i report a lost bag at the airport? or what steps should i take if my luggage is missing?"
+    ],
+    "oil_change_when": [
+        "oil change when like how many miles can i drive before changing my oil or when should i get the oil changed in my car"
+    ],
+    "are_you_a_bot": [
+        "are you a bot like could you be a real person or is this a computer right now or a human being"
+    ],
+    "travel_suggestion": [
+        "travel suggestion like what are the top tourist spots in seattle or what are some must-see places in chicago"
+    ],
+    "calculator": [
+        "calculator like what does 2 + 2 equal or find the square root of 1243435"
+    ],
+    "shopping_list": [
+        "shopping list like show me the items on my shopping list or can you check if bread is on the shopping list"
+    ],
+    "travel_notification": [
+        "travel notification like please notify my bank that i will be traveling to japan next week or i need to inform my bank about my upcoming trip to paris"
+    ],
+    "whisper_mode": [
+        "whisper mode like switch to quiet mode or immediately begin using whisper mode"
+    ],
+    "change_ai_name": [
+        "change ai name like i am wanting to change your name to felix or make changes to the name of the ai"
+    ],
+    "play_music": [
+        "play music like put on the latest taylor swift album or play the soundtrack from inception"
+    ],
+    "sync_device": [
+        "sync device like is my phone connectable right now or would you please pair with my phone"
+    ],
+    "book_flight": [
+        "book flight like find me a flight from chicago to seattle departing on june 10 and returning on june 15 or can you book a flight from atlanta to denver on southwest airlines for next friday?"
+    ],
+    "next_holiday": [
+        "next holiday like find the next holiday or how soon until the next holiday"
+    ],
+    "calendar": [
+        "calendar like is there a meeting scheduled for tomorrow at 3 pm? or did i add the dentist appointment to my calendar?"
+    ],
+    "international_visa": [
+        "international visa like do i need an international visa to visit france or are visas mandatory for traveling to australia"
+    ],
+    "what_song": [
+        "what song like what\u2019s this track called or could you tell me the artist and title of this song"
+    ],
+    "directions": [
+        "directions like how do i get to statue of liberty by bus or direct me to the closest korean grocery"
+    ],
+    "bill_due": [
+        "bill due like i need to know the payment deadline for my gas bill or how can i check the due date for my electricity bill"
+    ],
+    "reminder_update": [
+        "reminder update like i need to reschedule my reminder for the meeting to next week or can you update my reminder to pay the rent on friday"
+    ],
+    "food_last": [
+        "food last like how many days can i keep cooked rice in the refrigerator or how long does cooked chicken last in the fridge"
+    ],
+    "replacement_card_duration": [
+        "replacement card duration like what is the shipping time for my card or when will my replacement card get mailed"
+    ],
+    "pto_request_status": [
+        "pto request status like has my vacation time been signed off on or is my day off request still pending"
+    ],
+    "meaning_of_life": [
+        "meaning of life like what is life's meaning or why do you think we're here"
+    ],
+    "timezone": [
+        "timezone like which timezone does germany follow or what timezone is japan in"
+    ],
+    "pin_change": [
+        "pin change like how do i modify my credit card pin? or i forgot my pin, how can i set a new one?"
+    ],
+    "schedule_maintenance": [
+        "schedule maintenance like who can look at my car, the engine light is on or i'd like to make an appointment to get my oil changed"
+    ],
+    "user_name": [
+        "user name like you know me by what right now or what did i tell you to call me"
+    ],
+    "plug_type": [
+        "plug type like what type of power outlets are there in germany or do i need a plug adapter for my trip to japan"
+    ],
+    "interest_rate": [
+        "interest rate like could you tell me the interest rate for a new car loan or how do i check the interest rate on my mortgage"
+    ],
+    "flip_coin": [
+        "flip coin like will you flip a coin or coin flip"
+    ],
+    "spending_history": [
+        "spending history like have i spent too much on groceries this month or show me my recent spending on entertainment"
+    ],
+    "cook_time": [
+        "cook time like how long does it take to make a vegetable stir fry or how much time is needed to prepare lasagna"
+    ],
+    "fun_fact": [
+        "fun fact like have any cool facts on reptiles or what's a fun fact about elephants"
+    ],
+    "flight_status": [
+        "flight status like has my flight aa123 taken off yet or is flight sw234 delayed"
+    ],
+    "share_location": [
+        "share location like send my current location to steve, please or can you tell bob and alice where i am"
+    ],
+    "timer": [
+        "timer like start a timer for two minutes or set a brand new timer for eight seconds"
+    ],
+    "how_busy": [
+        "how busy like is there a long wait at red lobster tonight or what\u2019s the current wait time at texas roadhouse"
+    ],
+    "travel_alert": [
+        "travel alert like is it safe to travel to mexico right now or can i travel to france without any restrictions"
+    ],
+    "spelling": [
+        "spelling like how do you spell verisimilitude or spell curiosity for me"
+    ],
+    "pto_used": [
+        "pto used like so far how much pto have i used or how many days have i taken off this year"
+    ],
+    "smart_home": [
+        "smart home like unlock the front door or adjust the thermostat to 68 degrees"
+    ],
+    "credit_limit_change": [
+        "credit limit change like i need to increase my credit limit for my visa credit card, can you assist me or can i raise my credit limit to $12,000"
+    ],
+    "accept_reservations": [
+        "accept reservations like can we make a reservation for a group at the mexican restaurant or is it possible to reserve a spot at the rooftop cafe"
+    ],
+    "reminder": [
+        "reminder like what\u2019s on my to-remember list right now? or can you show me all the reminders i have set?"
+    ],
+    "what_can_i_ask_you": [
+        "what can i ask you like what kind of questions may i ask you or what kind of questions do you accept"
+    ],
+    "pto_balance": [
+        "pto balance like how many holiday days do i have left to use or what day am i on on vacation and how much do i got left"
+    ],
+    "tire_pressure": [
+        "tire pressure like do the tires need air or what is the level of air pressure of my tires"
+    ],
+    "meal_suggestion": [
+        "meal suggestion like i\u2019m craving chinese food, what should i make? or what\u2019s a good italian dish i can cook tonight?"
+    ],
+    "damaged_card": [
+        "damaged card like how do i report my card if it got cut in half or an atm ate my card, how do i report it"
+    ],
+    "change_accent": [
+        "change accent like i must switch to the male voice or i want you to change your accent"
+    ],
+    "recipe": [
+        "recipe like i need a recipe for homemade pizza or find me a recipe for chicken curry"
+    ],
+    "restaurant_reservation": [
+        "restaurant reservation like could you arrange a table for three at p.f. chang\u2019s at 7:30 pm under the name emily or can you reserve a spot for two at bistro 33 at 8 pm under the name michael"
+    ],
+    "credit_limit": [
+        "credit limit like look up how high my visa limit is or how much can i spend, at most, on my chase freedom"
+    ],
+    "taxes": [
+        "taxes like how much money do i pay in taxes, please or lets talk about what my federal taxes look like"
+    ],
+    "nutrition_info": [
+        "nutrition info like can you tell me the calorie count for a slice of pizza or what is the protein content in a salmon fillet"
+    ],
+    "vaccines": [
+        "vaccines like are there mandatory vaccines for traveling to south africa or which vaccines are recommended for travel to japan"
+    ],
+    "restaurant_suggestion": [
+        "restaurant suggestion like can you recommend a good mexican restaurant in austin or where can i find the best seafood in boston"
+    ],
+    "jump_start": [
+        "jump start like my car needs to be jump started, guide me through it or what do i do if i think my car battery's dead"
+    ],
+    "alarm": [
+        "alarm like please create one alarm for 330 pm and one for 8 pm or set an alarm to go to sleep and another to wake up"
+    ],
+    "order_checks": [
+        "order checks like where can i request additional checks for my account? or how do i get more checks for my bank account?"
+    ],
+    "gas": [
+        "gas like how much gas do i have in the tank or what is the amount of gas i have"
+    ],
+    "pto_request": [
+        "pto request like what do i need to do to request vacation time off or how does one go about putting in a vacation request"
+    ],
+    "date": [
+        "date like what day are we in or let me know what tomorrow's date is"
+    ],
+    "update_playlist": [
+        "update playlist like add thriller to my halloween playlist or put bohemian rhapsody in my classic rock playlist"
+    ],
+    "todo_list_update": [
+        "todo list update like please delete the dentist appointment from my to-do list or i need to remove the meeting with john from my to-do list"
+    ],
+    "income": [
+        "income like what is my salary right now or how much is my salary"
+    ],
+    "report_fraud": [
+        "report fraud like please help me report a fraudulent purchase on my visa card or how can i report a suspicious transaction on my account"
+    ],
+    "international_fees": [
+        "international fees like does my mastercard charge international transaction fees or for my card is there a extra card while i'm staying in italy"
+    ],
+    "transfer": [
+        "transfer like i want to shift $150 from my investment account to my everyday account or can you transfer $200 from my savings account to my checking account?"
+    ],
+    "change_language": [
+        "change language like can you translate that to french or i would appreciate it if you could talk to me in french"
+    ],
+    "confirm_reservation": [
+        "confirm reservation like is my reservation for 5:30 pm at the melting pot confirmed under the name john doe? or please verify my reservation for 8:00 pm at red lobster for tonight"
+    ],
+    "book_hotel": [
+        "book hotel like are there any affordable hotels in boston for september 1st to 3rd? or can you help me book a hotel in chicago for june 10th to 12th?"
+    ],
+    "report_lost_card": [
+        "report lost card like report a card lost for me or i need to report my card as stolen, please"
+    ],
+    "uber": [
+        "uber like i need an uber to come to my work at 5pm for three people going to the cineplex downtown or uber, i have 3 people who are going to union station"
+    ],
+    "gas_type": [
+        "gas type like what type of gas does this car take or what raiting of gas is called for"
+    ],
+    "insurance_change": [
+        "insurance change like i want a new insurance plan or how can i change information on my insurance policy"
+    ],
+    "order_status": [
+        "order status like could you provide me with the tracking details for my package or has my shipment been dispatched yet"
+    ],
+    "change_volume": [
+        "change volume like louder please or turn up the speaker volume"
+    ],
+    "cancel": [
+        "cancel like i would like you to stop what you were doing or can you turn off the process"
+    ],
+    "application_status": [
+        "application status like when will i know if my visa card application was approved or what's the status on my application for the hsbc credit card"
+    ],
+    "find_phone": [
+        "find phone like where was the last place i had my phone or help me figure out where my cell phone is"
+    ],
+    "redeem_rewards": [
+        "redeem rewards like can i convert my credit card points to milage or i want to use my credit card points"
+    ],
+    "do_you_have_pets": [
+        "do you have pets like what kinds of pets do you own or what is the total number of pets that you have"
+    ],
+    "last_maintenance": [
+        "last maintenance like do you know when i last took my car in to the shop or what was the date of my last oil change"
+    ],
+    "routing": [
+        "routing like what is the routing number for chase bank in new york or could you tell me the routing number for capital one"
+    ],
+    "improve_credit_score": [
+        "improve credit score like tell me all the ways my credit score can get hurt or give me some ideas of how to avoid my credit score lowering"
+    ],
+    "OOD": [
+        "out of domain"
+    ]
+}
